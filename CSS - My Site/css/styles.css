@@ -1,0 +1,34 @@
+body {
+  background-color: ;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.top-container {
+  background-color:#EAF6F6 ;
+  position: relative;
+
+
+}
+
+.middle-container {
+  background-color: red;
+
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-container {
+  background-color: blue;
+  
+
+  width: 200px;
+  height: 200px;
+}
